@@ -42,7 +42,7 @@
 	  	"ReleaseNote": " 1. (V2.0.5.193)添加升级库采用https的请求(使用nginx作为代理)\t\n 2. (V2.0.6)添加共享库DLL加载(精简软件大小)\t\n 3. 更新升级库支持GitHub服务器和CetWeb服务检查升级\t\n 4. 添加支持公有许可服务(服务器自动生成)\t\n 5. 支持ECU OTA升级功能(升级包保存和校验等)\t\n 6. 添加ECU OTA功能支持块大小可配置)\t\n 7. 不要问我改了什么，我懒得写\t\t\n"
 	},
 	"CetSScom-Setup": {
-		"RemoteUpdate /* 注意：此版本号故意缺少小版本号,为使得 V2.8.2 程序崩溃退出 */": true,
+		"RemoteUpdate": true,
 		"Author": "CetXiyuan",
 		"LatestVersion": "正式版 V5.0",
 		"UpdateTime": "(2024-04-07)",
